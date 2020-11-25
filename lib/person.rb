@@ -1,4 +1,6 @@
 class Person
+  def initialize(persons_name)
+    
   def name=(persons_name)
     @name = persons_name
   end
@@ -6,4 +8,3 @@ class Person
   def name
     @name
   end
-  
