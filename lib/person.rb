@@ -10,4 +10,3 @@ class Person
     @name
   end
 end
-end
